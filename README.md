@@ -24,9 +24,6 @@ All tasks and supporting files are organized in this repository according to the
 ```
 Digital-Literacy-Project/
 │
-├── README.md
-├── Project_Report.pdf
-│
 ├── task-1-presentation/
 │   └── Digital-Literacy-Posster.png
 │
@@ -46,9 +43,13 @@ Digital-Literacy-Project/
 │   └── Emails-(Part A).txt
 │   └── social-media-cheklist.md
 │
-└── task-5-cybercrime/
-    └── casestudy.md
-    └── prevention-checklist.md
+├── task-5-cybercrime/
+│    └── casestudy.md
+│    └── prevention-checklist.md
+│
+├── Project_Report.pdf
+│
+└── README.md
 ```
 
 ---
